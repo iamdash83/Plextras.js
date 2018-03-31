@@ -10,7 +10,7 @@
 
 (function () {
     var script = document.createElement('script');
-    script.src = '//andrewiankidd.co.uk/ext/mimefix/?gitfile=Plextras.js';
+    script.src = 'https://raw.githubusercontent.com/iamdash83/Plextras.js/master/Plextras.js';
     script.type = 'text/javascript';
     document.getElementsByTagName('head')[0].appendChild(script);
 })();
